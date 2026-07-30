@@ -12,6 +12,7 @@ away shirt woven into the background.
 - Home (white) and Away (dark green)
 - Desktop 4K and mobile
 - With and without the trophy row
+- With and without the adidas stripes
 
 **Coming**
 - Third kit (pink) — launches August 12, will be added here
